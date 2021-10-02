@@ -1,0 +1,48 @@
+.StartInvesting {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 100%;
+  background: url("../../../images/start_investing_bg.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+}
+.StartInvesting .row {
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around !important;
+}
+
+.StartInvesting .row div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.StartInvesting h1 {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+.StartInvesting img {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  background-size: cover;
+}
+
+.StartInvesting span {
+  font-weight: 500;
+  font-size: 24px;
+}

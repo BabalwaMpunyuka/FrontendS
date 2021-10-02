@@ -1,0 +1,13 @@
+/* Using module.css enable unique class names to be generated when compiling the css */
+.error{
+    color: red;
+    padding-top: 3px;
+}
+
+.icon{
+    position: absolute;
+    right: 12px;
+    color: inherit;
+    height: 15.2px;
+    width: 19.2px;
+}

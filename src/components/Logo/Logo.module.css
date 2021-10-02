@@ -1,0 +1,11 @@
+.AppLogo {
+    object-fit: contain;
+    width: 100px;
+    height: 70px;
+  }  
+
+  .LightLogo {
+    object-fit: contain;
+    width: 100px;
+    height: 80px;
+  }  
